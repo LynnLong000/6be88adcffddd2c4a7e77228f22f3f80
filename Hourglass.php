@@ -6,7 +6,7 @@
 
 <?php
 /*
-I did not get to finish 
+I did not get to finish in php
 */
 echo "Input number greater than 1";
 $handle = fopen ("php://stdin","r");
