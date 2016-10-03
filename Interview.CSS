@@ -21,7 +21,7 @@ div {
 #box1 {
 	color: black;
 	border-style: solid;
-    border-color: blue;
+    	border-color: blue;
 	background-color:#ffad33;
 	width: 100px;
 	height: 100px;
@@ -41,12 +41,12 @@ div {
 .box{
 		
 	border-style: solid;
-    border-color: blue;
+  	  border-color: blue;
 	background-color:#ffad33;
 	width: 100px;
 	height: 100px;
 	margin:left;
 	box-shadow: 10px 10px 5px #888888;
 	border: 2px solid red;
-    border-radius: 8px;
+    	border-radius: 8px;
 }
