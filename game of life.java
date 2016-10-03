@@ -1,5 +1,5 @@
 import java.io.; import java.util.;
-
+// Lynn  Long 
 public class GameofLifeApp {
 
 private Board currentBoard;
