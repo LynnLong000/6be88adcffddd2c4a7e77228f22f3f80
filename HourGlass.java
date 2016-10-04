@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-// edited
+// edit
 
 public class Time {
 	
